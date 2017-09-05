@@ -1,2 +1,2 @@
-# composter
+# Composter
 Documentation related to composter
