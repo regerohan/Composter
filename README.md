@@ -4,4 +4,4 @@ This Git contains information about the various parts of the composter.
 For operating manual please refer the wiki https://github.com/regerohan/Composter/wiki 
 
 Video of the working model: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OkCA8zssORs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+[![Bio Composter](https://img.youtube.com/vi/OkCA8zssORs/0.jpg)](https://www.youtube.com/watch?v=OkCA8zssORs)
